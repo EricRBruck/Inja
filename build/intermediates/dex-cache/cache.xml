@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.2-cd417fc5d83b4f6e7450fd3e23c5b362f3840aec.jar"
+        jar="/Users/sinasix/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9"/>
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-d74731871aaddd9bf8440bd264c1ede0f63c98da.jar"
+        jar="/Users/sinasix/android-sdks/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/td_collator_so-c57c5d317276d898171dce7172c4f5110f0fb5ba.jar"
+        jar="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/libs/td_collator_so.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7acbdc222bddd0ae79c0498fa168a8cdba02c352"/>
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/classes-596be1e9a29aa3aa6cb6ee7c0051312683d846e3.jar"
+        jar="/Users/sinasix/AndroidStudioProjects/WhatsCool/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.4.52/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059"/>
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/classes-272e80c22436d14dc343e7618deb2c0c2931cad0.jar"
+        jar="/Users/sinasix/AndroidStudioProjects/WhatsCool/build/intermediates/exploded-aar/com.couchbase.cblite/CBLite/1.0.0-beta2/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1e8f2c6a213096fcfff13a55192f9e590e71e061"/>
+    <item
+        dex="/Users/sinasix/AndroidStudioProjects/WhatsCool/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.2-504016139f372e12313c2c311756d8166341640c.jar"
+        jar="/Users/sinasix/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945"/>
+
+</pre-dex-items>
